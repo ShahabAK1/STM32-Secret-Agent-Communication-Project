@@ -1,4 +1,7 @@
 # Advanced UART Communication System with STM32 and LM35 Sensor
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/github/workflow/status/ShahabAK1/STM32-Secret-Agent-Communication-Project/Build)](https://github.com/ShahabAK1/STM32-Secret-Agent-Communication-Project/actions)
+[![Version](https://img.shields.io/github/release/ShahabAK1/STM32-Secret-Agent-Communication-Project.svg)](https://github.com/ShahabAK1/STM32-Secret-Agent-Communication-Project/releases)
 
 ## Project Overview
 This project demonstrates an **Advanced UART-based Communication System** using the **STM32F401RE microcontroller** and the **LM35 temperature sensor**. The system allows real-time temperature monitoring, command-based interface, encryption of data, error checking with CRC8, and self-diagnostics. The project is ideal for showcasing embedded systems development, specifically UART communication, sensor integration, and error-checking mechanisms.
