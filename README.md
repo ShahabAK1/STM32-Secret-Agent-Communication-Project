@@ -1,8 +1,6 @@
 # Advanced UART Communication System with STM32 and LM35 Sensor
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/github/workflow/status/ShahabAK1/STM32-Secret-Agent-Communication-Project/Build%20and%20Test)](https://github.com/ShahabAK1/STM32-Secret-Agent-Communication-Project/actions)
-[![Version](https://img.shields.io/github/release/ShahabAK1/STM32-Secret-Agent-Communication-Project.svg)](https://github.com/ShahabAK1/STM32-Secret-Agent-Communication-Project/releases)
 
 
 ## Project Overview
