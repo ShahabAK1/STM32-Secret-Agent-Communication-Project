@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/License-MIT%20(2024%20Shahab%20A.K.)-yellow.svg)
 ![Build Status](https://img.shields.io/github/workflow/status/ShahabAK1/STM32-Secret-Agent-Communication-Project/CI?label=Build%20Status)
 ![Version](https://img.shields.io/github/v/release/ShahabAK1/STM32-Secret-Agent-Communication-Project)
-![License](https://img.shields.io/badge/License-MIT%20(2024%20Shahab%20A.K.)-yellow.svg)
 ![Downloads](https://img.shields.io/github/downloads/ShahabAK1/STM32-Secret-Agent-Communication-Project/total)
 ![Last Commit](https://img.shields.io/github/last-commit/ShahabAK1/STM32-Secret-Agent-Communication-Project)
 ![Forks](https://img.shields.io/github/forks/ShahabAK1/STM32-Secret-Agent-Communication-Project?style=social)
