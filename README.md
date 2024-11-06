@@ -1,6 +1,6 @@
 # Advanced UART Communication System with STM32 and LM35 Sensor
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License](https://img.shields.io/badge/License-MIT%20(2024%20Shahab%20A.K.)-yellow.svg)
 
 
 ## Project Overview
